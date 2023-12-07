@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
  ## 👨‍💻ABOUT ME:
-- 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+- 🧠 Callme: **She/Her*** or ***TeamWorker*** 😊 <br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```
 - 🛠  I’m currently learning about **Deep Learning!😅**
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
