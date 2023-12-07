@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
+<img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/L7Lm7JSWSRkW5Vvjjg/giphy360p.mp4?cid=ecf05e47awtuywbd79ujz2ivet0r4w7xraduj70eizea2vd5&ep=v1_videos_search&rid=giphy360p.mp4&ct=v&cc=en)" align="right" width="300" height="300" />
 <h1 align="left">Hey there <img src="https://media2.giphy.com/media/2UA9gXDkCbKIKlLKxd/200.webp?cid=ecf05e47x7mu9bvq76v5ufyn96y6lqwl4ec4n4gmnnwztxcm&rid=200.webp&ct=g" width ="40"/>, I'm Sakshi  </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
