@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
-<h1 align="left">Hey there <img src="https://media2.giphy.com/media/2UA9gXDkCbKIKlLKxd/200.webp?cid=ecf05e47x7mu9bvq76v5ufyn96y6lqwl4ec4n4gmnnwztxcm&rid=200.webp&ct=g" width ="40"/>, I'm Sakshi  </h1>
+<h1 align="left">Hey there 👋, I'm Sakshi  </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 
- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Each decision is a brushstroke on the canvas of our lives. Choose the colors wisely, for they shape the masterpiece of your journey."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
  <hr>
 
