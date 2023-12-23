@@ -32,11 +32,12 @@ Here are some ideas to get you started:
 - 🧠 Callme: **She/Her*** or ***TeamWorker*** 😊 <br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```
 - 🛠  I’m currently learning about **Deep Learning!😅**
+- Visit my portfolio: [Portfolio](https://sakuu89.github.io/)
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
--  Portfolio Link : https://sakuu89.github.io
+
 
 
 
